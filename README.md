@@ -7,6 +7,7 @@ path("demo/",demo,name="demo"),  The "demo/" indicates that we have to manually 
 
 python manage.py runserver runs the server.
 localhost port number 8000 is for django 
+http://127.0.0.1:8000/
 output:
 Default
 Hello Jango, This is my first project
